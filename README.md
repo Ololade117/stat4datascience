@@ -21,8 +21,8 @@ Each week runs **2 classes**. Across the 8 weeks, learners complete:
 | **2** |Descriptive Statistics |Probability Theory, Distributions Bayes' Theorem & N-gram Language Models| |
 | **3** | Project Insights: Small Language Model using Ngrams |Inferential Statistics: Sampling Techniques & the Central Limit Theorem Confidence Intervals Hypothesis Testing, p-values & Statistical Significance|
 | **4** | Exploratory Data Analysis & Correlation | Simple & Multiple Linear Regression |
-| **5** | Statistical Methods for ML & Feature Selection | Classification Algorithms (Logistic Regression, KNN, Decision Trees) |
-| **6** | Bias-Variance Tradeoff & Regularization (Ridge, Lasso, ElasticNet) | Model Evaluation Metrics & A/B Testing |
+| **5** | Machine Learning Concepts | Classification Algorithms (Logistic Regression, KNN, Decision Trees) |
+| **6** | Feature Selection, Bias-Variance Tradeoff & Regularization (Ridge, Lasso, ElasticNet) | Model Evaluation Metrics & A/B Testing |
 | **7** | Ensemble Methods (Random Forests, Gradient Boosting) | Unsupervised Learning (K-Means Clustering & PCA) |
 | **8** | **Project One** — peer learning + instructor guidance | **Project Two** — peer learning + instructor guidance |
 
