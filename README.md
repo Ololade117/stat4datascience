@@ -24,7 +24,7 @@ Each week runs **2 classes**. Across the 8 weeks, learners complete:
 | **5** | Machine Learning Concepts | Classification Algorithms (Logistic Regression, KNN, Decision Trees) |
 | **6** | Feature Selection, Bias-Variance Tradeoff & Regularization (Ridge, Lasso, ElasticNet) | Model Evaluation Metrics & A/B Testing |
 | **7** | Ensemble Methods (Random Forests, Gradient Boosting) | Unsupervised Learning (K-Means Clustering & PCA) |
-| **8** | **Project One** — peer learning + instructor guidance | **Project Two** — peer learning + instructor guidance |
+| **8** | **Project Insights** — peer learning + instructor guidance | **Project Insights** — peer learning + instructor guidance |
 
 
 ## The 3 projects, in brief
