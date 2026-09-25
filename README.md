@@ -20,8 +20,8 @@ Each week runs **2 classes**. Across the 8 weeks, learners complete:
 | **1** | Intro to Statistics, Types of Data, Python for Data Science |  Python: Numpy, Pandas, Seaborn, Matplotlib and Sklearn|
 | **2** |Descriptive Statistics |Probability Theory, Distributions Bayes' Theorem & N-gram Language Models| |
 | **3** | Project Insights: Small Language Model using Ngrams |Inferential Statistics: Sampling Techniques & the Central Limit Theorem Confidence Intervals Hypothesis Testing, p-values & Statistical Significance|
-| **4** | Exploratory Data Analysis & Correlation | Simple & Multiple Linear Regression |
-| **5** | Machine Learning Concepts | Classification Algorithms (Logistic Regression, KNN, Decision Trees) |
+| **4** | Exploratory Data Analysis & Correlation |Machine Learning Concepts|
+| **5** |  Simple & Multiple Linear Regression  | Classification Algorithms (Logistic Regression, KNN, Decision Trees) |
 | **6** | Feature Selection, Bias-Variance Tradeoff & Regularization (Ridge, Lasso, ElasticNet) | Model Evaluation Metrics & A/B Testing |
 | **7** | Ensemble Methods (Random Forests, Gradient Boosting) | Unsupervised Learning (K-Means Clustering & PCA) |
 | **8** | **Project Insights** — peer learning + instructor guidance | **Project Insights** — peer learning + instructor guidance |
