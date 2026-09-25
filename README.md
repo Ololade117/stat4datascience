@@ -10,8 +10,8 @@ Each week runs **2 classes**. Across the 8 weeks, learners complete:
 - **7 Labs** — one per week for Weeks 1-7, giving hands-on practice with that week's concepts using NumPy, pandas, Matplotlib, Seaborn, and SciPy.stats. (Week 8 has no new lab — it's dedicated project time.)
 - **3 Projects** — the course's major applied deliverables:
   1. **N-grams project** (starts Week 3, right after the Week 2 probability course) — building N-gram language models, extending the probability and Bayes' theorem foundations into a small language-modelling project.
-  2. **Regression project** (Week 8, Class 1).
-  3. **Classification project** (Week 8, Class 2)
+  2. **Supervised Learning Project** (Week 8, Class 1).
+  3. **Unsupervised Learning Project** (Week 8, Class 2)
   
 ## Week-by-week structure
 
