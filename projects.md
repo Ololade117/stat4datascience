@@ -1,4 +1,4 @@
-# Machine Learning Projects — Kaggle Practice Set
+# Statistics and Quantitative Methods for Data Science Foundation Projects 
 
 This project set is designed for learners who have finished the basic Machine Learning Concepts material and need practical projects to apply the workflow.
 
